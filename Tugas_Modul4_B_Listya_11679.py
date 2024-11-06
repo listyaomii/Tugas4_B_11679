@@ -48,7 +48,7 @@ def scatter(model, model_name, data, new_point, features, color_scale, title):
     return fig, new_cluster
 
 st.set_page_config(
-    page_title="12345 - Unsupervised Learning",  # 12345 diisi dengan 5 digit NPM
+    page_title="11679 - Unsupervised Learning",  # 12345 diisi dengan 5 digit NPM
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
